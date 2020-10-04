@@ -94,6 +94,7 @@ def run_program(server_ans, client_socket, client_object):
 
 
 def main():
+    #Client Main
     client_socket = Socket()
     client_object = Client()
     client_socket.send(pickle.dumps(client_object))
