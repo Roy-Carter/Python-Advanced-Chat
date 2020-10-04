@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#Socket
 #This class basically is a separated to functions of attributes of socket so instead of me using every single time
 #for example , in the "send" category and write those 2 lines over and over again i've decided to build a function
 #which will hold it and by that i'm saving some time for myself and instead of writing it over and over again i'm just

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#client backend
 from SocketClass import *
 
 #MAGIC STRINGS

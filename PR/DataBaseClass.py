@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#DataBase
 #MAGIC STRINGS
 CHAR_THAT_PRESENTS_ADMINS = '@'
 

@@ -1,4 +1,5 @@
 #MAGIC STRINGS
+#Messages
 MESSAGE_TO_LEAVE = "quit"
 MESSAGE_FOR_CONNECTION = ""
 KICK_MSG = "getout"

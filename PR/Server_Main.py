@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Server Main
 from server import *
 
 
@@ -34,7 +35,6 @@ def help_newcomers():
     print"Thank you , for dedicating your time to read this , when you're ready start up a client as well :D"
     print "============================================="
 
-#Main Server
 def main():
     help_newcomers()
     server = Server()

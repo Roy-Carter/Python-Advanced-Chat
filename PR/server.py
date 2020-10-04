@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#server backend
 from Messages import *
 import socket
 from client import Client
